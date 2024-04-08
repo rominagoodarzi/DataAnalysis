@@ -32,6 +32,5 @@ In this notebook, I am going to use advanced regression models to predict house 
 * R2 score
 
 ### Comparison
-Here is a comparison between models mean absolute errors
+A comparison between models mean absolute errors
 
-!["p"](models.jpeg)
