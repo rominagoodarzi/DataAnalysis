@@ -3,7 +3,7 @@
 *Created by Romina Goodarzi*
 
 
-In this notebook I am going to use advanced regression models to predict house prices
+In this notebook, I am going to use advanced regression models to predict house prices
 
 [Dataset on kaggle](https://www.kaggle.com/datasets/shivachandel/kc-house-data)
 
