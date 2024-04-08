@@ -34,4 +34,4 @@ In this notebook, I am going to use advanced regression models to predict house 
 ### Comparison
 Here is a comparison between models mean absolute errors
 
-![p](sample/models.jpg)
+![p](/Users/rominagoodarzi/Desktop/models.jpeg)
